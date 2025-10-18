@@ -24,7 +24,7 @@
 
 <div style="display: inline-block">
    <ul>
-     <li><a target="_blank" href="https://guilherme-santos-alves.github.io/portfolio/">Portfólio</a></li>
+     <li><a target="_blank" href="https://guisantzz.github.io/portfolio/">Portfólio</a></li>
    </ul>
  </div>
 
