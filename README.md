@@ -3,7 +3,7 @@
 ### `Desenvolvedor de Software`
 
 - Experiência de desenvolvimento com C# e Angular
-- Ciência da Computação 3/8
+- Ciência da Computação 4/8
 
 ---
 
